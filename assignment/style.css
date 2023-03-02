@@ -2,6 +2,7 @@
 body {background-color: MistyRose;}
 /* Make the header and footer a different color from the background */
 h1{color:rgba(152, 46, 101, 0.698);}
+footer{color:black;}
 /* Align the h1 containing your name in the center of the header*/
 h1{text-align: center;}
 /* Make your p tag a different color and italic */
